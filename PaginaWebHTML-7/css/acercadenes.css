@@ -1,0 +1,12 @@
+body {
+    background-image: url(../imagenes/fondosobrenos.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+footer {
+    color: #fff;    
+}
+body {
+    color: #fff;
+}
