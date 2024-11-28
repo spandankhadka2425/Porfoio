@@ -3,7 +3,7 @@ body {
     font-weight: 900;
     margin: 0;
     padding: 0;
-    background-image: url('../imagenes/proyecto1.png');
+    background-image: url('../imagenes/fondoinicio.gif');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -15,14 +15,16 @@ div {
     display: flex;
     justify-content: center;
     margin: 40px;
-    background-image: url('../imagenes/proyecto1.png');
+    background-image: url('../imagenes/fondoinicio.gif');
+    background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 header {
-    background-image: url('../imagenes/proyecto1.png');
+    background-image: url('../imagenes/fondoinicio.gif');
+    background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -32,7 +34,8 @@ header {
 }
 
 nav {
-    background-image: url('../imagenes/proyecto1.png');
+    background-image: url('../imagenes/fondoinicio.gif');
+    background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -58,7 +61,8 @@ nav ul li a {
 main {
     padding: 2px;
     height: 50px;
-    background-image: url('../imagenes/proyecto1.png');
+    background-image: url('../imagenes/fondoinicio.gif');
+    background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -69,7 +73,8 @@ main {
     color: #fff;
 }
 footer {
-    background-image: url('../imagenes/proyecto1.png');
+    background-image: url('../imagenes/fondoinicio.gif');
+    background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
