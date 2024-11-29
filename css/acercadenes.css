@@ -4,6 +4,29 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+nav {
+    background-image: url(../imagenes/fondosobrenos.jpg);
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
 footer {
     color: #fff;    
 }
